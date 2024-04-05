@@ -27,8 +27,9 @@ This service is designed to efficiently manage user data within our system. It p
 ## Installation
 
 1. Clone the repository.
-2. Set up your database and configure the connection string in the `appsettings.json` file. 
-3. Build and run the project.
+2. Set up your database and configure the connection string in the `appsettings.json` file.
+3. Run migrations through the update-database command on package manager console in Visual Studio (or your choice of CLI)
+4. Build and run the project.
 
 ## Usage
 
